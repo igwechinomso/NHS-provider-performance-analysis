@@ -50,14 +50,12 @@ making it easy for stakeholders to understand the insights.
 #### Key Insights and recomendations
 ###### Key Insights 
 * ###### Service Type by Diagnosis:
- - Most migraine and hypertension patients were outpatients, while fractures and asthma required more inpatient or          
- emergency services.
-
+  - Most migraine and hypertension patients were outpatients, while fractures and asthma required more inpatient or          
+    emergency services.
 * ###### Gender-Based Cost Analysis:
- - Male patients accounted for £2.5M, significantly higher than female patients (£1.8M).
+  - Male patients accounted for £2.5M, significantly higher than female patients (£1.8M).
 * ##### Weekly Patterns:
   - Majority of patients (51.85%) were treated on weekdays, followed by 32.15% on weekends.
-
 * ##### Quarterly Trends:
   - Billing and insurance coverage steadily declined from Q1 to Q4, suggesting either reduced
     patient load or lower service utilization later in the year.
