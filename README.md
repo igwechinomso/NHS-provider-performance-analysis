@@ -45,4 +45,4 @@ making it easy for stakeholders to understand the insights.
 * Insights Generation
 
 #### Dashboard
-- <a href = "https://github.com/igwechinomso/NHS-project/blob/main/NHS%20Eastmidlands.pbit" >View or Download</a>
+- <a href = "https://github.com/igwechinomso/NHS-provider-performance-analysis/blob/main/Nhs%20England%20performance%20analysis.pbit" >View or Download</a>
