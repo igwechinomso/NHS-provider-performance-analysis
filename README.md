@@ -6,14 +6,14 @@ and to identify actionable insights that can support better decision-making, imp
 and optimize resource allocation.
 
 ##### Requirements:
-1. KPIs and Trends: Identify and present the key
+- KPIs and Trends: Identify and present the key
 performance indicators (KPIs) and significant trends in the
 dataset.
-2. Detailed Analysis: Ensure the analysis is thorough and
+- Detailed Analysis: Ensure the analysis is thorough and
 detailed, covering all relevant aspects of the healthcare
 center's finance and the performance of healthcare
 providers.
-3. Dashboard Creation: Create a comprehensive
+- Dashboard Creation: Create a comprehensive
 dashboard consisting of 3 to 4 pages that includes:
  - Financial Overview: Summarize the financial health of
 the healthcare center.
@@ -30,3 +30,19 @@ communicate the findings.
 user-friendly.
 - Clarity: Present the data in a clear and concise manner,
 making it easy for stakeholders to understand the insights.
+
+#### Steps 
+* Requirement Gathering/ Business Requirements
+* Data Walkthrough
+* Data Connection
+* Data Cleaning / Quality Check
+* Data Modeling
+* Data Processing
+* DAX Calculations
+* Dashboard Lay outing
+* Charts Development and Formatting
+* Dashboard / Report Development
+* Insights Generation
+
+#### Dashboard
+- <a href = "https://github.com/igwechinomso/NHS-project/blob/main/NHS%20Eastmidlands.pbit" >View or Download</a>
