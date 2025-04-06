@@ -68,6 +68,6 @@ making it easy for stakeholders to understand the insights.
 * ##### Boost Pediatric Satisfaction:
   - Conduct feedback sessions and invest in patient experience improvement in Pediatrics.
 * ##### Resource Planning:
- - Address seasonal trends by ensuring adequate staffing and service availability in Q1, when patient volumes are highest.
+  - Address seasonal trends by ensuring adequate staffing and service availability in Q1, when patient volumes are highest.
 * ##### Address Gender Billing Gap:
   - Investigate service usage patterns to identify causes of gender disparities in billing.
