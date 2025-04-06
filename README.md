@@ -62,7 +62,7 @@ making it easy for stakeholders to understand the insights.
 
 ###### Recomendations
 * ##### Optimize High-Cost Procedures:
- -  Re-evaluate the high billing on X-Rays and CT scans for necessity and appropriateness.
+  - Re-evaluate the high billing on X-Rays and CT scans for necessity and appropriateness.
 * ##### Enhance Insurance Recovery:
   - Improve insurance claim processes, especially for providers with high out-of-pocket trends.
 * ##### Boost Pediatric Satisfaction:
